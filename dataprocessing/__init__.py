@@ -9,8 +9,8 @@ from .live_data import LiveDataManager, DatabaseConnector, APIConnector, RealTim
 from .simple_import import import_live, create_live_stream, EnhancedLiveData
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
-__email__ = "your.email@example.com"
+__author__ = "Conor Reid"
+__email__ = "conoreid@me.com"
 
 __all__ = [
     "CSVData",
