@@ -9,7 +9,7 @@ from .live_data import LiveDataManager, DatabaseConnector, APIConnector, RealTim
 from .simple_import import import_live, create_live_stream, EnhancedLiveData
 
 __version__ = "0.1.0"
-__author__ = Conor Reid"
+__author__ = "Conor Reid"
 __email__ = "conoreid@me.com"
 
 __all__ = [
